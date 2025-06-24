@@ -13,7 +13,6 @@ A fully functional backend system for managing job listings and applications, bu
 - 🔒 Spring Security with JWT, BCrypt password hashing
 - 💾 PostgreSQL integration using Spring Data JPA
 - 📦 Clean layered architecture (Controller → Service → Repository)
-- 💡 Global exception handling with custom response DTOs
 
 ---
 
